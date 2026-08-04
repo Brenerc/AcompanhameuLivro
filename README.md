@@ -8,44 +8,10 @@ Acompanhamento em Porcentagem: Cálculo em tempo real da porcentagem concluída 
 Marcador de Página: Tela de detalhes do livro com botões de incremento/decremento (- e +), campo numérico direto para digitar a página em que parou, barra de progresso visual e atualização automática de status (transição para "Lido" ao atingir a última página).
 Gestão Completa do Livro (Criar, Editar e Alterar):
 Formulário completo para adicionar novos livros ou editar existentes (título, autor, total de páginas, página atual, gênero, avaliação em estrelas e anotações/citações).
-Suporte a links diretos de imagens da web/HTML com pré-visualização e seleção de capas recomendadas.
-Navegação & Interface de Usuário:
-Biblioteca: Cartões Bento para livros em leitura ativa, carrosel para "Quero Ler" e lista de livros "Concluídos".
-Pesquisa & Filtros: Busca por palavra-chave e chips de filtro por status da leitura.
-Perfil do Leitor: Estatísticas de total de livros, páginas lidas, sequência de dias de leitura e conquistas.
-flag
-Checkpoint
-Mude o nome " Happy Reading!" Para " Acompanha meu Livro" e crie um logotipo/icone para o app
-Gemini 3.6 Flash
-Ran for 117s
-
-summarize_auto
-Action history
-chevron_right
-Here are key actions taken for the app:
-
-edit
-Edited 6 files
-app/src/main/java/com/example/ui/components/HeaderAppBar.kt
-check_circle
-app/src/main/res/values/strings.xml
-check_circle
-metadata.json
-check_circle
-settings.gradle.kts
-check_circle
-app/src/main/res/drawable/ic_launcher_foreground.xml
-check_circle
-app/src/main/java/com/example/ui/screens/LibraryScreen.kt
-check_circle
-build
-Built
-Atualizei o nome do aplicativo e criei o novo logotipo/ícone do app:
-Novo Nome ("Acompanha meu Livro"):
-Atualizado no cabeçalho das telas (HeaderAppBar), nos recursos de texto (strings.xml), nas configurações do projeto (settings.gradle.kts) e nos metadados da plataforma (metadata.json).
-Novo Logotipo / Ícone Adaptativo:
-Gerado um ícone minimalista e moderno com um livro aberto, marcador em formato de coração e barra de progresso em tons vibrantes de rosa, roxo e dourado (@drawable/app_icon_fg_...).
-Configurado o launcher icon adaptativo do Android (ic_launcher_foreground.xml) com fundo degradê para destacar na tela inicial.
+<img width="372" height="792" alt="Captura de tela 2026-08-03 203509" src="https://github.com/user-attachments/assets/b367b711-49e1-4c0b-9e94-82ebb0b6240c" />
+<img width="360" height="831" alt="Captura de tela 2026-08-03 203456" src="https://github.com/user-attachments/assets/e17515b0-46f0-4bd1-ab62-51d68bfc5b2c" />
+<img width="353" height="750" alt="Captura de tela 2026-08-03 203445" src="https://github.com/user-attachments/assets/ba68edd4-9c19-498b-a65c-d00a220a3f4d" />
+<img width="346" height="776" alt="Captura de tela 2026-08-03 203436" src="https://github.com/user-attachments/assets/0199c757-6800-45e9-9e6e-de98b626784a" />
 
 
 **Prerequisites:**  [Android Studio](https://developer.android.com/studio)
