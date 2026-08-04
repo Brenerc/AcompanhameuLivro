@@ -1,0 +1,6 @@
+{
+  "name": "Acompanha meu Livro",
+  "description": "Gerenciador de livros com acompanhamento de leitura, progresso de páginas e banco de dados SQLite local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
